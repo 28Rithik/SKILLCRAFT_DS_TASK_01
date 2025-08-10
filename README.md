@@ -68,5 +68,5 @@ Feel free to check out the notebook and visualizations in this repository.
 💻 Tech Stack: Python • Pandas • Seaborn • Matplotlib • Jupyter Notebook
 📬 Let's Connect: 
 [Connect with me on LinkedIn](www.linkedin.com/in/rithik-ca-a39b02292)
- | Portfolio (Add your actual links here)
+ | Portfolio
 # SKILLCRAFT_DS_TASK_01
