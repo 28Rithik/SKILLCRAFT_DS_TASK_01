@@ -1,6 +1,6 @@
 SkillCraft_DS_01
-<img src="SkillCraft_Task_01.png" alt="Banner" style="width:100%; max-width:700px;">
 📊 SkillCraft Technology – Data Science Internship (Task 1)
+<img src="SkillCraft_Task_01.png" alt="Banner" style="width:100%; max-width:700px;">
 📌 Internship: SkillCraft Technology – Data Science
 📅 Task 1: Exploratory Data Analysis (EDA) – World Population Dataset (2022)
 👨‍💻 Author: Rithik CA
